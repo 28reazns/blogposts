@@ -4,4 +4,4 @@
 
 
 Here is the rest of my content...
-![Usagi from Chiikawa in Luffy Cosplay](images/usagi_luffy.jpg)
+![Usagi from Chiikawa in Luffy Cosplay](images/usagi_luffy.jpg){class="img-small"}
