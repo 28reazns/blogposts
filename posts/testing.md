@@ -1,4 +1,5 @@
 # Post Title
+#thumbnail: ![Placeholder image](https://placehold.co/1280x720)
 - - -
 #tags: blog,firstpost,tutorial
 
